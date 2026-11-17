@@ -1,0 +1,38 @@
+Toda pagina web debe tener un index.html
+Este index.html debe estar en la raiz (root directory del proyecto). De hecho lo que determina al root directory es donde esta ubicado el index.html, el padre directo de este archivo es por definicion el root directory.
+index.html es el punto de entrada de nuestra pagina web
+
+
+Sintaxis HTML:
+
+En HTML existen etiquetas, las hay 2 tipos:
+    de cierre: 
+        <padre><hijo></hijo></padre>
+
+
+    de autocierre:
+        <etiqueta/>
+        o
+        <etiqueta>
+
+En HTML existen los elementos, los elementos determinan que haran las etiquetas. Un elemento puede tener significado o funcionalidad
+El elemento determina que tipo de etiqueta es, esta definido en el mismo lenguaje
+
+    El elemento h1 que significa/funciona 'encabezado principal' y es de cierre
+        <h1>Hola mundo</h1>
+
+    El elemento button funciona para crear un boton en la pagina
+        <button>Abrir</button>
+
+    El elemento img sirve para insertar imagenes en el navegador y es de autocierre
+        <img>
+        o
+        <img/>
+
+En html cada elemento puede tener atributos, los mismos se declaran en la misma etiqueta. Los atributos disponibles para usar en cada etiqueta LOS DETERMINA EL ELEMENTO.
+Sirven para "configurar"/"customizar" un elemento
+
+
+
+
+ALT + SHIFT + A = Comentario
